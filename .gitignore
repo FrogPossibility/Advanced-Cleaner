@@ -1,0 +1,6 @@
+build
+dist
+main3.exe.manifest
+cleaner.log
+main3.spec
+test_admin_file.txt

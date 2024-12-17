@@ -1,0 +1,1 @@
+pyinstaller --add-data "main3.py;." --manifest "main3.exe.manifest" --onefile main3.py
